@@ -1,4 +1,4 @@
-# MPI Student Marks & Attendance Demo
+# MPI Student Marks & Attendance
 
 A small **C++ MPI (Message Passing Interface)** program that demonstrates basic point-to-point communication between three processes, modeled as a university system that exchanges student marks and attendance data.
 
