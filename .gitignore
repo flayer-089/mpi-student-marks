@@ -1,0 +1,31 @@
+# --- HIDDEN: AI voice-agent files (kept locally, not tracked) ---
+server.js
+package.json
+package-lock.json
+node_modules/
+.env
+.env.local
+
+# --- C++ / MPI build artifacts ---
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.pch
+*.idb
+*.tmp_proj
+*.log
+*.tlog
+msbuild.log
+msbuild.log.*
+*.exp
+*.lib
+
+# --- IDE / OS ---
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+desktop.ini
